@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.action98.drmp.mobilemaintain2</string>
+				<string>com.action98.drmp.mobilemonitor2</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>mobilemaintain</string>
+				<string>mobilemonitor</string>
 			</dict>
 		</dict>
 	</array>
