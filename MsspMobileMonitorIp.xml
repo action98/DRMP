@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.action98.drmp.mobilemonitor2</string>
+				<string>com.action98.mssp.monitoringapp</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
